@@ -147,7 +147,4 @@ include('_included/headerhtml.php') ?>
 
 <!-- It's always good to keep the body on individual page, so that you can target each page specifically with ID-->
 <?php include('_included/footerhtml.php') ?>
-<<<<<<< HEAD
 <?php //Jerry: Add this line to the file in clean_title branch?>
-=======
->>>>>>> master
