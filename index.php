@@ -1,4 +1,5 @@
 <?php
+// Jerry: Add this line in Master Branch;
 // for each page, you first handle processing code;
 // then, you set the page title;
 $page_title = "Roux Academy Conference 2013 -- Home";
@@ -146,4 +147,7 @@ include('_included/headerhtml.php') ?>
 
 <!-- It's always good to keep the body on individual page, so that you can target each page specifically with ID-->
 <?php include('_included/footerhtml.php') ?>
+<<<<<<< HEAD
 <?php //Jerry: Add this line to the file in clean_title branch?>
+=======
+>>>>>>> master
