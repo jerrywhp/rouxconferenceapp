@@ -1,0 +1,4 @@
+This branch starts from adding a <h2> title to file algorithm.html
+The added title is:
+<h2>This line is initially created on branch add_title</h2>
+
