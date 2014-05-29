@@ -1,4 +1,5 @@
 <?php
+// Jerry: Add this line in Master Branch;
 // for each page, you first handle processing code;
 // then, you set the page title;
 $page_title = "Roux Academy Conference 2013 -- Home";
